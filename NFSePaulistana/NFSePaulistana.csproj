@@ -51,6 +51,22 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Layout\Comuns.cs" />
+    <Compile Include="Layout\PedidoCancelamentoLote.cs" />
+    <Compile Include="Layout\PedidoCancelamentoNFe.cs" />
+    <Compile Include="Layout\PedidoConsultaCNPJ.cs" />
+    <Compile Include="Layout\PedidoConsultaLote.cs" />
+    <Compile Include="Layout\PedidoConsultaNFe.cs" />
+    <Compile Include="Layout\PedidoConsultaNFePeriodo.cs" />
+    <Compile Include="Layout\PedidoEnvioLoteRPS.cs" />
+    <Compile Include="Layout\PedidoEnvioRPS.cs" />
+    <Compile Include="Layout\PedidoInformacoesLote.cs" />
+    <Compile Include="Layout\RetornoCancelamentoNFe.cs" />
+    <Compile Include="Layout\RetornoConsulta.cs" />
+    <Compile Include="Layout\RetornoConsultaCNPJ.cs" />
+    <Compile Include="Layout\RetornoEnvioLoteRPS.cs" />
+    <Compile Include="Layout\RetornoEnvioRPS.cs" />
+    <Compile Include="Layout\RetornoInformacoesLote.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
